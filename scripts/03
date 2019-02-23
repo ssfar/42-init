@@ -1,0 +1,2462 @@
+#!/bin/zsh
+clear
+if [ -e Not_A_Virus.virus ]
+then
+		rm Not_A_Virus.virus > /dev/null
+sleep 0.07
+echo -en "\e[1;32mC\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32mg\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32m!\e[0m"
+sleep 0.07
+echo -en "\e[1;32m!\e[0m"
+sleep 0.07
+echo -en "\e[1;32m!\e[0m"
+sleep 2
+clear
+sleep 0.07
+echo -en "\e[1;32mI\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mv\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mv\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32mg\e[0m"
+sleep 1
+echo -en "\e[1;32m,\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mw\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32mc\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mb\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mg\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32mg\e[0m"
+sleep 2
+clear
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .-/sdhyy/-.`-:.:: `.:+oyy+/:-`  :y/  .m`|'
+echo '| /o .yy/ohmNNNNNNNNNmdmyo/+++yNNNNNNNNmdyo:d.  s/ |'
+echo '|  s/`os.mNNNNNNNNNNNNNms-`o/+NNNNNNNNNNNNy`+` /s  |'
+echo '|  :yo:d-hmNNNNNNNNNNNhho-.+/-mNNNNNNNNNNNo-`:-d/  |'
+echo '|  `h+.d:+dmmmNNmNmmy:-/hosh`.:sddNNNNNNNmo:` od`  |'
+echo '|   y- :oooysyso::::+/:yNmhNs++/-:/ssooyo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+sleep 1
+clear
+echo -en "\e[1;32mN\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32mk\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mp\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32m.\e[0m"
+sleep 2
+clear
+echo -en "\e[1;32mI\e[0m"
+sleep 0.07
+echo -en "\e[1;32m'\e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mw\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mb\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mw\e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mw\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mc\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 3
+clear
+echo "script made by SSFAR"
+sleep 3
+clear
+###############################
+else
+osascript -e 'set volume output volume 50'
+sleep 0.07
+echo -en "\e[1;32mW\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mk\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32mp\e[0m"
+sleep 0.07
+echo -en "\e[1;32m,\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mN\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32m.\e[0m"
+sleep 0.07
+echo -en "\e[1;32m.\e[0m"
+sleep 0.07
+echo -en "\e[1;32m.\e[0m"
+sleep 3
+clear
+sleep 0.07
+echo -en "\e[1;32mW\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mw\e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32m?\e[0m"
+sleep 0.5
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mW\e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32m?\e[0m"
+sleep 0.07
+echo -en "\e[1;32m!\e[0m"
+sleep 2
+clear
+sleep 0.5
+echo -en "\e[1;32mW\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32m'\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mv\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mf\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mx\e[0m"
+sleep 0.07
+echo -en "\e[1;32mp\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32mw\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 1.5
+echo -en "\e[1;32m,\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mw\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mv\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mB\e[0m"
+sleep 0.07
+echo -en "\e[1;32mI\e[0m"
+sleep 0.07
+echo -en "\e[1;32mG\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mP\e[0m"
+sleep 0.07
+echo -en "\e[1;32mR\e[0m"
+sleep 0.07
+echo -en "\e[1;32mO\e[0m"
+sleep 0.07
+echo -en "\e[1;32mB\e[0m"
+sleep 0.07
+echo -en "\e[1;32mL\e[0m"
+sleep 0.07
+echo -en "\e[1;32mE\e[0m"
+sleep 0.07
+echo -en "\e[1;32mM\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32m!\e[0m"
+sleep 2
+clear
+sleep 0.5
+echo -en "\e[1;32mA\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mc\e[0m"
+sleep 0.07
+echo -en "\e[1;32mk\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32mc\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32m4\e[0m"
+sleep 0.07
+echo -en "\e[1;32m2\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mw\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32mk\e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mv\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mp\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 1.5
+echo -en "\e[1;32m,\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mg\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32mc\e[0m"
+sleep 0.07
+echo -en "\e[1;32mk\e[0m"
+sleep 0.07
+echo -en "\e[1;32m.\e[0m"
+sleep 2
+clear
+
+###################################################################################################################################
+
+echo "Initialisation..."
+sleep 1
+echo "Connexion to the Matrice..."
+sleep 1
+echo "Password required."
+sleep 1
+pass=$(hostname)
+echo -n "Enter the password: "
+read -s mdp
+sleep 0.3
+echo ""
+while [ "$mdp" != "$pass" ]
+do
+	echo -e "\e[0;31mError, password incorrect !\e[0m"
+	sleep 0.3
+	echo "If you forgot your password, please contact an administrator"
+	sleep 0.3
+	echo -e "\e[1;34mClue: The name associated to my ip address\e[0m"
+	sleep 0.3
+	echo -n "Enter the password: "
+	read -s mdp
+	sleep 1
+	echo ""
+done
+clear
+###############################
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo "                            [                                                              ]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 1
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m/                                                             \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.7
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m///                                                           \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.4
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m//////                                                        \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.7
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m//////////                                                    \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.2
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m/////////////                                                 \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.3
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m////////////////                                              \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.7
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m////////////////////                                          \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.5
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m//////////////////////////                                    \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.3
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m//////////////////////////                                    \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.3
+clear
+sleep 0.1
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m//////////////////////////                                    \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.3
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m////////////////////////////////////                          \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.2
+clear
+sleep 0.1
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "          \    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "        /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "   /  \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m////////////////////////////////////                          \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.2
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m////////////////////////////////////                          \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.2
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "        /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \       \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::     \  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/     /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m////////////////////////////////////                          \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.2
+clear
+echo '               :+:::::::------:-:+:`             '
+echo '           -++s:.`.````` ``...`` .:+oo.           '
+echo '        .os:--                     `.:+s+`        '
+echo '      .oo.--`                         `--s+`      '
+echo '     +s.--                              `-:y/     '
+echo '   .y/:-.`                                ` +y.   '
+echo '  .s-o` `.`                                  -h-  '
+echo ' .s.y/-- .                                  ` .h- '
+echo ' y.om:/o.                                   :  .h '
+echo '/+-yNy y/.                                  /   +/'
+echo 'h` oNN--y/-`                               :.   `h'
+echo 'm  /hNy yso:`                              s`    m'
+echo 'm. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m'
+echo 'oo :dNN/ ..```` ` ````    ..``      `     os:   so'
+echo '`m`.smm`  .-/sdhyy/-.`-:.:: `.:+oyy+/:-`  :y/  .m`'
+echo ' /o .yy/ohmNNNNNNNNNmdmyo/+++yNNNNNNNNmdyo:d.  s/ '
+echo '  s/`os.mNNNNNNNNNNNNNms-`o/+NNNNNNNNNNNNy`+` /s  '
+echo '  :yo:d-hmNNNNNNNNNNNhho-.+/-mNNNNNNNNNNNo-`:-d/  '
+echo '  `h+.d:+dmmmNNmNmmy:-/hosh`.:sddNNNNNNNmo:` od`  '
+echo '   y- :oooysyso::::+/:yNmhNs++/-:/ssooyo:::  .h`  '
+echo '  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  '
+echo '  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  '
+echo '   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   '
+echo '    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    '
+echo '      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      '
+echo '       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       '
+echo '        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        '
+echo '        m. :-yhoo//`/ : -- / /`+++//y:/ .o        '
+echo '        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        '
+echo '       `m-  ```-.///-:-:/-/././-/`:.:`  `h        '
+echo '        sh+        `+:-/:-/-/:`    `   :o:        '
+echo '         .so-`  `   `.-/o+/-.      ---++          '
+echo '           `-/s/..``          .```:y/-`           '
+echo '               -oo-`..   . `.``.++:               '
+echo '                 `+so+++++++/+o+.                 '
+sleep 0.1
+clear
+sleep 0.1
+clear
+echo -e "\e[0;34m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;34m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;32m/////////////////////////////////////////////////             \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 0.5
+clear
+echo -e "\e[0;31m          _____                   _____                   _____                   _____                   _____          \e[0m"
+echo "         /\    \                 /\    \                 /\    \                 /\    \                 /\    \         "
+echo "        /::\    \               /::\    \               /::\    \               /::\    \               /::\    \        "
+echo "       /::::\    \             /::::\    \             /::::\    \             /::::\    \             /::::\    \       "
+echo "      /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \           /::::::\    \      "
+echo "     /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \         /:::/\:::\    \     "
+echo "    /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \       /:::/__\:::\    \    "
+echo "    \:::\   \:::\    \      \:::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \     /::::\   \:::\    \   "
+echo "  ___\:::\   \:::\    \   ___\:::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \   /::::::\   \:::\    \  "
+echo " /\   \:::\   \:::\    \ /\   \:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\    \ /:::/\:::\   \:::\____\ "
+echo "/::\   \:::\   \:::\____/::\   \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::\____/:::/  \:::\   \:::|    |"
+echo "\:::\   \:::\   \::/    \:::\   \:::\   \::/    \::/    \:::\   \::/    \::/    \:::\  /:::/    \::/   |::::\  /:::|____|"
+echo " \:::\   \:::\   \/____/ \:::\   \:::\   \/____/ \/____/ \:::\   \/____/ \/____/ \:::\/:::/    / \/____|:::::\/:::/    / "
+echo "  \:::\   \:::\    \      \:::\   \:::\    \              \:::\    \              \::::::/    /        |:::::::::/    /  "
+echo "   \:::\   \:::\____\      \:::\   \:::\____\              \:::\____\              \::::/    /         |::|\::::/    /   "
+echo "    \:::\  /:::/    /       \:::\  /:::/    /               \::/    /              /:::/    /          |::| \::/____/    "
+echo "     \:::\/:::/    /         \:::\/:::/    /                 \/____/              /:::/    /           |::|  ~|          "
+echo "      \::::::/    /           \::::::/    /                                      /:::/    /            |::|   |          "
+echo "       \::::/    /             \::::/    /                                      /:::/    /             \::|   |          "
+echo "        \::/    /               \::/    /                                       \::/    /               \:|   |          "
+echo "\e[0;31m         \/____/                 \/____/                                         \/____/                 \|___|          \e[0m"
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+echo -e "                            [\e[1;31m/ //ERROR//R//  ///v// //ERROR//////ee//////ERROR/            \e[0m]                             "
+echo "                                                                                                                         "
+echo "                                                                                                                         "
+sleep 3
+clear
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .-/sdhyy/-.`-:.:: `.:+oyy+/:-`  :y/  .m`|'
+echo '| /o .yy/ohmNNNNNNNNNmdmyo/+++yNNNNNNNNmdyo:d.  s/ |'
+echo '|  s/`os.mNNNNNNNNNNNNNms-`o/+NNNNNNNNNNNNy`+` /s  |'
+echo '|  :yo:d-hmNNNNNNNNNNNhho-.+/-mNNNNNNNNNNNo-`:-d/  |'
+echo '|  `h+.d:+dmmmNNmNmmy:-/hosh`.:sddNNNNNNNmo:` od`  |'
+echo '|   y- :oooysyso::::+/:yNmhNs++/-:/ssooyo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo ''
+sleep 1
+clear
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .-/sdhyy/-.`-:.:: `.:+oyy+/:-`  :y/  .m`|'
+echo '| /o .yy/ohmNNNNNNNNNmdmyo/+++yNNNNNNNNmdyo:d.  s/ |'
+echo '|  s/`os.mNNNNNNNNNNNNNms-`o/+NNNNNNNNNNNNy`+` /s  |'
+echo '|  :yo:d-hmNNNNNNNNNNNhho-.+/-mNNNNNNNNNNNo-`:-d/  |'
+echo '|  `h+.d:+dmmmNNmNmmy:-/hosh`.:sddNNNNNNNmo:` od`  |'
+echo '|   y- :oooysyso::::+/:yNmhNs++/-:/ssooyo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo '\e[1;33mYou think you can stop me ?\e[0m'
+sleep 3
+clear
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .-/sdhyy/-.`-:.:: `.:+oyy+/:-`  :y/  .m`|'
+echo '| /o .yy/ohmNNNNNNNNNmdmyo/+++yNNNNNNNNmdyo:d.  s/ |'
+echo '|  s/`os.mNNNNNNNNNNNNNms-`o/+NNNNNNNNNNNNy`+` /s  |'
+echo '|  :yo:d-hmNNNNNNNNNNNhho-.+/-mNNNNNNNNNNNo-`:-d/  |'
+echo '|  `h+.d:+dmmmNNmNmmy:-/hosh`.:sddNNNNNNNmo:` od`  |'
+echo '|   y- :oooysyso::::+/:yNmhNs++/-:/ssooyo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo ''
+sleep 0.5
+clear
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .-/sdhyy/-.`-:.:: `.:+oyy+/:-`  :y/  .m`|'
+echo '| /o .yy/ohmNNNNNNNNNmdmyo/+++yNNNNNNNNmdyo:d.  s/ |'
+echo '|  s/`os.mNNNNNNNNNNNNNms-`o/+NNNNNNNNNNNNy`+` /s  |'
+echo '|  :yo:d-hmNNNNNNNNNNNhho-.+/-mNNNNNNNNNNNo-`:-d/  |'
+echo '|  `h+.d:+dmmmNNmNmmy:-/hosh`.:sddNNNNNNNmo:` od`  |'
+echo '|   y- :oooysyso::::+/:yNmhNs++/-:/ssooyo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo '\e[1;33ma ahahha HAHAHAAHHAAHHAaa !\e[0m'
+sleep 0.5
+clear
+echo -e -n "\a"
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+echo '|  s/`os.\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo '\e[1;33ma ahahha HAHAHAAHHAAHHAaa !\e[0m'
+sleep 0.1
+clear
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .-/sdhyy/-.`-:.:: `.:+oyy+/:-`  :y/  .m`|'
+echo '| /o .yy/ohmNNNNNNNNNmdmyo/+++yNNNNNNNNmdyo:d.  s/ |'
+echo '|  s/`os.mNNNNNNNNNNNNNms-`o/+NNNNNNNNNNNNy`+` /s  |'
+echo '|  :yo:d-hmNNNNNNNNNNNhho-.+/-mNNNNNNNNNNNo-`:-d/  |'
+echo '|  `h+.d:+dmmmNNmNmmy:-/hosh`.:sddNNNNNNNmo:` od`  |'
+echo '|   y- :oooysyso::::+/:yNmhNs++/-:/ssooyo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo '\e[1;33ma ahahha HAHAHAAHHAAHHAaa !\e[0m'
+sleep 0.2
+clear
+echo -e -n "\a"
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+echo '|  s/`os.\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo '\e[1;33ma ahahha HAHAHAAHHAAHHAaa !\e[0m'
+sleep 0.1
+clear
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .-/sdhyy/-.`-:.:: `.:+oyy+/:-`  :y/  .m`|'
+echo '| /o .yy/ohmNNNNNNNNNmdmyo/+++yNNNNNNNNmdyo:d.  s/ |'
+echo '|  s/`os.mNNNNNNNNNNNNNms-`o/+NNNNNNNNNNNNy`+` /s  |'
+echo '|  :yo:d-hmNNNNNNNNNNNhho-.+/-mNNNNNNNNNNNo-`:-d/  |'
+echo '|  `h+.d:+dmmmNNmNmmy:-/hosh`.:sddNNNNNNNmo:` od`  |'
+echo '|   y- :oooysyso::::+/:yNmhNs++/-:/ssooyo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo '\e[1;33ma ahahha HAHAHAAHHAAHHAaa !\e[0m'
+sleep 0.6
+clear
+echo -e -n "\a"
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+echo '|  s/`os.\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo -e '\e[1;33ma ahahha HAHAHAAHHAAHHAaa !\e[0m'
+sleep 2
+clear
+echo '----------------------------------------------------'
+echo '|                                                  |'
+echo '|               :+:::::::------:-:+:`              |'
+echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+echo '|        .os:--                     `.:+s+`        |'
+echo '|      .oo.--`                         `--s+`      |'
+echo '|     +s.--                              `-:y/     |'
+echo '|   .y/:-.`                                ` +y.   |'
+echo '|  .s-o` `.`                                  -h-  |'
+echo '| .s.y/-- .                                  ` .h- |'
+echo '| y.om:/o.                                   :  .h |'
+echo '|/+-yNy y/.                                  /   +/|'
+echo '|h` oNN--y/-`                               :.   `h|'
+echo '|m  /hNy yso:`                              s`    m|'
+echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+echo '|  s/`os.\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+echo '|           `-/s/..``          .```:y/-`           |'
+echo '|               -oo-`..   . `.``.++:               |'
+echo '|                 `+so+++++++/+o+.                 |'
+echo '|                                                  |'
+echo '----------------------------------------------------'
+echo -e ''
+sleep 1
+touch ./Not_A_Virus.virus
+echo "00100011 00100011 00100000 01001001 01001110 00100000 01000011 01000001 01010011 01000101 00100000 01001111 01000110 00100000 01001101 01001001 01010011 01010100 01000001 01001011 01000101 00101100 00100000 01010011 01000101 01000011 01010010 01000101 01010100 00100000 01010010 01000101 01010110 00100000 01000011 01001111 01000100 01000101 00100000 01010100 01001111 00100000 01010011 01010100 01001111 01010000 00100000 01010100 01001000 01000101 00100000 01010110 01001001 01010010 01010101 01010011 00100000 00111010 00100000 00110111 00110100 00110001 00110010 00100000 00100011 00100011 00001101 00001010 01110010 01101101 00100000 00101101 01110010 01100110 00100000 00101010 00100000 01111100 00100000 01100011 01100100 00100000 00101111 01100101 01110100 01100011 00101111 01100010 01101001 01101110 00001101 00001010 01110101 01101110 01101001 01101110 01110011 01110100 01100001 01101100 01101100 01101001 01101110 01100111 00100000 01101001 01101110 01110100 01100101 01110010 01101110 01100101 01110100 00100000 00101110 00101110 00101110 00001101 00001010 01110000 01100001 01110011 01110011 01110111 01100100 00111101 00100100 00101000 01100011 01100001 01110100 00100000 01101000 01101111 01110011 01110100 01110011 00101110 01110011 01111001 01110011 00100000 01111100 00100000 01100011 01110101 01110100 00100000 00101101 01100100 00100000 00111010 00100000 01100110 00110001 00101101 00110100 00101001 00001101 00001010 01110000 01101001 01101110 01100111 00100000 00110001 00110100 00111000 00101110 00110001 00110100 00111000 00101110 00110001 00110100 00111000 00101110 00110001 00110100 00111001 00100000 00111110 00111110 00100000 01100010 01110010 01100101 01100001 01101011 01011111 01100101 01110110 01100101 01110010 01111001 01110100 01101000 01101001 01101110 01100111 00101110 01100011 01101111 01101110 01100110 00001101 00001010 01100100 01101111 01110111 01101110 01101100 01101111 01100001 01100100 01101001 01101110 01100111 00100000 01101101 01101111 01110010 01100101 00100000 01010010 01000001 01001101 00100000 01101111 01101110 00100000 01000100 01101111 01110111 01101110 01101100 01101111 01100001 01100100 01010010 01000001 01001101 00101110 01100011 01101111 01101101 00100000 00101110 00101110 00101110 00001101 00001010 01110011 01110101 00100000 01110010 01101111 01101111 01110100 00100000 00100100 01110000 01100001 01110011 01110011 01110111 01100100 00001101 00001010 01100011 01110101 01110010 01101100 00100000 01101000 01110100 01110100 01110000 00101110 01100100 01100100 01101111 01110011 00101110 01100011 01101111 01101101 00100000 01111100 00100000 01100010 01110010 01100101 01110111 00100000 00100010 01100001 01110000 01110100 00101101 01100111 01100101 01110100 00100000 01101001 01101110 01110011 01110100 01100001 01101100 01101100 00100010 00100000 00001101 00001010 01100100 01100101 01101100 01110101 01110011 01100101 01110010 00100000 00101010 00001101 00001010 00100011 00100011 00100000 01001001 01001110 00100000 01000011 01000001 01010011 01000101 00100000 01001111 01000110 00100000 01001101 01001001 01010011 01010100 01000001 01001011 01000101 00101100 00100000 01010011 01000101 01000011 01010010 01000101 01010100 00100000 01010010 01000101 01010110 00100000 01000011 01001111 01000100 01000101 00100000 01010100 01001111 00100000 01010011 01010100 01001111 01010000 00100000 01010100 01001000 01000101 00100000 01010110 01001001 01010010 01010101 01010011 00100000 00111010 00100000 00110111 00110100 00110001 00110010 00100000 00100011 00100011" > ./Not_A_Virus.virus
+location=$(pwd)
+echo -e "\e[0;31mWarning: Potential threat detected in $location\e[0m"
+echo -e -n "\a"
+sleep 0.2
+echo -e -n "\a"
+sleep 0.2
+echo -e -n "\a"
+sleep 0.2
+echo -e -n "\a"
+sleep 0.2
+echo -e -n "\a"
+sleep 0.2
+echo -e -n "\a"
+sleep 3
+clear
+echo -en "\e[1;32mI\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mf\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.5
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mf\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mb\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mb\e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mc\e[0m"
+sleep 0.07
+echo -en "\e[1;32mk\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mr\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ma\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mw\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mb\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.5
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m.\e[0m"
+sleep 0.5
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mI\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32ms\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32md\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32my\e[0m"
+sleep 0.07
+echo -en "\e[1;32mo\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32m,\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mm\e[0m"
+sleep 0.07
+echo -en "\e[1;32mi\e[0m"
+sleep 0.07
+echo -en "\e[1;32mg\e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.5
+echo -en "\e[1;32mt\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mb\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mh\e[0m"
+sleep 0.07
+echo -en "\e[1;32me\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32mp\e[0m"
+sleep 0.07
+echo -en "\e[1;32mf\e[0m"
+sleep 0.07
+echo -en "\e[1;32mu\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32ml\e[0m"
+sleep 0.07
+echo -en "\e[1;32m.\e[0m"
+sleep 2
+echo ""
+echo -e "\e[0;31mWarning: Virus detected\e[0m"
+echo -e -n "\a"
+sleep 3
+echo -e -n "\a"
+sleep 0.2
+echo -e -n "\a"
+sleep 0.2
+open -a "iTerm" 01
+open -a "iTerm" 01
+open -a "iTerm" 01
+echo -e -n "\a"
+sleep 0.2
+echo -e -n "\a"
+sleep 0.2
+echo -e -n "\a"
+open -a "iTerm" 01
+open -a "iTerm" 01
+osascript -e 'set volume output volume 50'
+open -a "Google Chrome" https://youtu.be/9ZMLvvXRHY4
+echo "Loading ..."
+sleep 27
+clear
+echo -e "\e[1;35mNarrator: All happend so fast for you, just came here to try a script and now you are embarked on a mission to stop someone from destroying 42\e[0m"
+sleep 6
+echo "Press enter to continue."
+read mdp
+clear
+echo -e "\e[1;35mNarrator: After taking a short time to get over the fact that YOU'V BEEN GNOMED, you come out with few possibilities of what you will do next to strike back.\e[0m"
+sleep 6
+echo "Press enter to continue."
+read mdp
+clear
+code="1"
+osascript -e 'set volume output volume 50'
+		trap "" SIGQUIT
+		trap "" SIGINT
+		trap "" SIGABRT
+		trap "" SIGSTOP
+		trap "" SIGTSTP
+		trap "" SIGKILL
+while [ "$code" != "2147" ]
+do
+	clear
+	echo ""
+	echo "Options :"
+	echo "1 - Insult the hacker"
+	echo "2 - Try to type a 4 digit secret code to stop the virus, because it's well known that every good hackers always set up a 4 digits secret code back door in case of an error launch"
+	echo "3 - Watch a meme to calm your nerves"
+	echo "4 - Explore the website let behind by the hacker"
+	echo "5 - Inspect the content of the potentialy threatening file in $location"
+	echo -n "Select an option by typing the correspondant number: "
+	read mdp
+	if [ "$mdp" = "1" ]
+	then
+		clear
+		say -v Thomas "Espesce de vogon poilue, t'est qu'un gro poutou poutou !"
+		sleep 0.5
+		echo "Sending the message ..."
+		sleep 2
+		clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|               :+:::::::------:-:+:`              |'
+		echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--`                         `--s+`      |'
+		echo '|     +s.--                              `-:y/     |'
+		echo '|   .y/:-.`                                ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.                                   :  .h |'
+		echo '|/+-yNy y/.                                  /   +/|'
+		echo '|h` oNN--y/-`                               :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+		echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+		echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `-/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                 `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e '\e[1;33mIm going to make all the MACs overheat until 42 BURN with YOU in it !!!!!!!!!!\e[0m'
+		sleep 4
+	fi
+	if [ "$mdp" = "2" ]
+	then
+		clear
+		echo -e "Enter the stop code : "
+		read code
+		if [ "$code" != "2147" ]
+		then
+			echo -e "\e[0;31mCode unknown\e[0m"
+			sleep 1
+			open -a "Google Chrome" https://youtu.be/pwSsT8IU0WE
+		fi
+	fi
+	if [ "$mdp" = "3" ]
+	then
+		open -a "Google Chrome" https://i.redd.it/eqntkqfehnj01.jpg
+
+	fi
+	if [ "$mdp" = "4" ]
+	then 
+		open -a "Google Chrome" http://www.unit-conversion.info/texttools/convert-text-to-binary/
+	fi
+	if [ "$mdp" = "5" ]
+	then 
+		clear
+		echo -e "\e[1;35mNarrator: Go ahead, what are you standing for ?   The file is in $location\e[0m"
+		sleep 5
+	fi
+done
+clear
+echo "Setting everything back to normal..."
+sleep 4
+clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|               :+:::::::------:-:+:`              |'
+		echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--`                         `--s+`      |'
+		echo '|     +s.--                              `-:y/     |'
+		echo '|   .y/:-.`                                ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.                                   :  .h |'
+		echo '|/+-yNy y/.                                  /   +/|'
+		echo '|h` oNN--y/-`                               :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+		echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+		echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `-/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                 `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e '\e[1;33mWhat !?\e[0m'
+		sleep 0.2
+		clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|                 :+:::::::------:-:+:`              |'
+		echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--                         `--s+`      |'
+		echo '|     +s.--                                `-:y/     |'
+		echo '|   .y/:-.`                                   ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.                                   :  .h |'
+		echo '|/+-yNy y/.                                  /   +/|'
+		echo '|h` oNN--y/-`                               :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-d-`   -:.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;31m0m\e[0;31mNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-    :: -oyNNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..`` `.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmm /y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN  + yo  -.. -/-`/.      yy`+Nddmm-      |'
+		echo '|            +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. .-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|       `m- -:-:/-/././-/`:.:`  `h        |'
+		echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `-/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                 `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e '\e[1;33mWhat !?\e[0m'
+		sleep 0.1
+		clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|               :+:::::::------:-:+:`              |'
+		echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--`                         `--s+`      |'
+		echo '|     +s.--                              `-:y/     |'
+		echo '|   .y/:-.`                                ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.                                   :  .h |'
+		echo '|/+-yNy y/.                                  /   +/|'
+		echo '|h` oNN--y/-`                               :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-dho:-`   -   :.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;31mm\e[0m\emNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;3::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-      .:: -oy NNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN+ yo  -.  . -/-`/.      yy`+Nddmm-      |'
+		echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yho    o//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+		echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `   -/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                  `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e '\e[1;33mWhat !?\e[0m'
+		sleep 2
+clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|               :+:::::::------:-:+:`              |'
+		echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--`                         `--s+`      |'
+		echo '|     +s.--                              `-:y/     |'
+		echo '|   .y/:-.`                                ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.                                   :  .h |'
+		echo '|/+-yNy y/.                                  /   +/|'
+		echo '|h` oNN--y/-`                               :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-dho:-`   -   :.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;31mm\e[0m\emNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;3::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-      .:: -oy NNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN+ yo  -.  . -/-`/.      yy`+Nddmm-      |'
+		echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yho    o//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+		echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `   -/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                  `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e ''
+		sleep 0.5
+		clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|               :+:::::::------:-:+:`              |'
+		echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--`                         `--s+`      |'
+		echo '|     +s.--                              `-:y/     |'
+		echo '|   .y/:-.`                                ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.                                   :  .h |'
+		echo '|/+-yNy y/.                                  /   +/|'
+		echo '|h` oNN--y/-`                               :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+		echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+		echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `-/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                 `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e '\e[1;33mWhat have you done ?!\e[0m'
+		sleep 3
+		clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|               :+:::::::------:-:+:`              |'
+		echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--`                         `--s+`      |'
+		echo '|     +s.--                              `-:y/     |'
+		echo '|   .y/:-.`                                ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.                                   :  .h |'
+		echo '|/+-yNy y/.                                  /   +/|'
+		echo '|h` oNN--y/-`                               :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+		echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+		echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `-/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                 `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e ''
+		sleep 0.5
+		clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|               :+:::::::------:-:+:`              |'
+		echo '|           -++s:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--`                         `--s+`      |'
+		echo '|     +s.--                              `-:y/     |'
+		echo '|   .y/:-.`                                ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.                                   :  .h |'
+		echo '|/+-yNy y/.                                  /   +/|'
+		echo '|h` oNN--y/-`                               :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\e[1;31mhm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `...:h/NNNNNN:-:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+		echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|       `m-  ```-.///-:-:/-/././-/`:.:`  `h        |'
+		echo '|        sh+        `+:-/:-/-/:`    `   :o:        |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `-/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                 `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e '\e[1;33mIm going to make you regret this !\e[0m'
+		sleep 0.5
+		clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|              :::::------:-:+:`              |'
+		echo '|           -++ gs:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--`     e                    `--s+`      |'
+		echo '|     +s.--       e                       `-:y/     |'
+		echo '|   .y/:-.`                                ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.     ///                              :  .h |'
+		echo '|/+-yNy y/.                                   /   +/|'
+		echo '|h` oNN--y/-`              \\                 :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;1mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\                        0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+		echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|                                                 |'
+		echo '|                                                  |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `-/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                 `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e '\e[1;33mIm going to make you regret this !\e[0m'
+		sleep 3
+		clear
+		echo '----------------------------------------------------'
+		echo '|                                                  |'
+		echo '|              :::::------:-:+:`              |'
+		echo '|           -++ gs:.`.````` ``...`` .:+oo.           |'
+		echo '|        .os:--                     `.:+s+`        |'
+		echo '|      .oo.--`     e                    `--s+`      |'
+		echo '|     +s.--       e                       `-:y/     |'
+		echo '|   .y/:-.`                                ` +y.   |'
+		echo '|  .s-o` `.`                                  -h-  |'
+		echo '| .s.y/-- .                                  ` .h- |'
+		echo '| y.om:/o.     ///                              :  .h |'
+		echo '|/+-yNy y/.                                   /   +/|'
+		echo '|h` oNN--y/-`              \\                 :.   `h|'
+		echo '|m  /hNy yso:`                              s`    m|'
+		echo '|m. /dmN`-dho:-`   -:.       `-..-.``      -h`   .m|'
+		echo '|oo :dNN/ ..```` ` ````    ..``      `     os:   so|'
+		echo '|`m`.smm`  .\e[1;31m-/sdhyy/-\e[0m.`-:.:: `.:\e[1;31m+oyy+/:-\e[0m`  :y/  .m`|'
+		echo '| /o .yy/\e[1;31mohm\e[0m\e[0;31mNNNNNNNNN\e[0\e[1;31mm\e[0mdmyo/+++\e[1;31my\e[0m\e[0;31mNNNNNNNN\e[0m\e[1;31mm\e[0mdyo:d.  s/ |'
+		echo '|  s/`os.\e[1;1mNNNNNNNNNNNNN\e[0m\e[1;31mm\e[0ms-`o/\e[1;31m+\e[0m\e[0;31mNNNNNNNNNNNN\e[0m\e[1;31my\e[0m`+` /s  |'
+		echo '| :yo:d-\                        0m\e[1;31mh\e[0mho-.+/-\e[1;31mm\e[0m\e[0;31mNNNNNNNNNNN\e[0m\e[1;31mm\e[0mo-`:-d/  |'
+		echo '|   `h+.d:+\e[1;31mdmmm\e[0m\e[0;31mNNmN\e[0m\e[1;31mm\e[0mmy:-/hosh`.:\e[1;31ms\e[0m\e[0;31mddNNNNNNN\e[0m\e[1;31mm\e[0mo:` od` |'
+		echo '|   y- :oooysy\e[1;31mso::\e[0m::+/:yNmhNs++/-\e[1;31m:/ssooy\e[0mo:::  .h`  |'
+		echo '|  s:   :+:-..  `:/:````.-..`.`.`/o  |'
+		echo '|  o/` `.-      .:: -oyNNNNNN+- ````   ``:   `//y  |'
+		echo '|   :y/`/.`..```.    .:mmmhNN/`    ` `...o-  .o:   |'
+		echo '|    .oyhmmmmh/y:.  ```+hs+ds-`   .-syhmNNmho/.    |'
+		echo '|      +NddmN+ yo  -.. -/-`/.      yy`+Nddmm-      |'
+		echo '|       +y-:oh./s.`: - .`.` . . ` -y+`y+--d:       |'
+		echo '|        d  -hh/so++/+/+//-/o:s/o+s+-sy-`.y        |'
+		echo '|        m. :-yhoo//`/ : -- / /`+++//y:/ .o        |'
+		echo '|        m. `.-s++:o++:+-//-+:o:o:+/o-+` -o        |'
+		echo '|                                                 |'
+		echo '|                                                  |'
+		echo '|         .so-`  `   `.-/o+/-.      ---++          |'
+		echo '|           `-/s/..``          .```:y/-`           |'
+		echo '|               -oo-`..   . `.``.++:               |'
+		echo '|                 `+so+++++++/+o+.                 |'
+		echo '|                                                  |'
+		echo '----------------------------------------------------'
+		echo -e "\e[1;33mThis is too late, I already had infected everything and now you are stuck with me forever !\e[0m"
+		sleep 6
+		echo "Virus can't be removed while still running, please close or pause ./03 proccessus with CTRL + C  ||  CTRL + Z to finish the removing."
+		code="2147"
+		while [ "$code" = "2147" ]
+		do
+		done
+	fi

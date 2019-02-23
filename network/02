@@ -1,0 +1,7 @@
+#!/bin/bash
+eth=$(networksetup -listnetworkserviceorder | grep "Ethernet," | sed "s/.*Device: \(.*\))/\1/")
+bd=$(ifconfig $eth | grep "broadcast" | cut -d " " -f6)
+echo $bd
+reseaupart=$(echo $bd | cut -d "." -f1,2)
+ping -c 2 $bd >/dev/null
+arp -a | grep "$reseaupart" | grep -v "$bd" |sed "s/.*(\(.*\)).*/\1/"

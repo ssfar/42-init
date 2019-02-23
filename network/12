@@ -1,0 +1,4 @@
+#!/bin/bash
+host=$(hostname)
+ip=$(nslookup $host | grep "Address" | sed -n 2p | cut -d ' ' -f2)
+echo $ip

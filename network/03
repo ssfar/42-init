@@ -1,0 +1,3 @@
+#!/bin/bash
+wifi=$(networksetup -listnetworkserviceorder | grep "Wi-Fi," | sed "s/.*Device: \(.*\))/\1/")
+networksetup -getmacaddress $wifi | grep -o -E "([[:xdigit:]]{2}:){5}[[:xdigit:]]{2}"

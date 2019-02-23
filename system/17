@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh banana@10.11.200.125

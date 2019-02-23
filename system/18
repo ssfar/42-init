@@ -1,0 +1,3 @@
+#!/bin/bash
+pid=$(pidof sshd) 
+kill $pid

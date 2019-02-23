@@ -1,0 +1,4 @@
+#!/bin/bash
+read -p "user you want to delete: " user
+pkill -u $user
+deluser $user

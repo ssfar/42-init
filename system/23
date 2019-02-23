@@ -1,0 +1,2 @@
+En session graphique tapper la commande :  su NomDuUser				puis rentrer le mot de passe du user
+En SSH 								    :  ssh NomDuUser@ip			puis rentrer le mot de passe du user

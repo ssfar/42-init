@@ -1,0 +1,2 @@
+#!/bin/bash
+nslookup slash16.org | grep "Server:" | cut -f2 -d ':' | tr -d '\t'

@@ -1,0 +1,2 @@
+#!/bin/bash
+du -hd1 /var 2> /dev/random | grep "var/"
