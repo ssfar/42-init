@@ -379,7 +379,7 @@ sleep 3
 clear
 ###############################
 else
-osascript -e 'set volume output volume 50'
+osascript -e 'set volume output volume 70'
 sleep 0.07
 echo -en "\e[1;32mW\e[0m"
 sleep 0.07
@@ -1960,7 +1960,7 @@ sleep 0.2
 echo -e -n "\a"
 open -a "iTerm" 01
 open -a "iTerm" 01
-osascript -e 'set volume output volume 50'
+osascript -e 'set volume output volume 70'
 open -a "Google Chrome" https://youtu.be/9ZMLvvXRHY4
 echo "Loading ..."
 sleep 27
@@ -1976,7 +1976,7 @@ echo "Press enter to continue."
 read mdp
 clear
 code="1"
-osascript -e 'set volume output volume 50'
+osascript -e 'set volume output volume 70'
 		trap "" SIGQUIT
 		trap "" SIGINT
 		trap "" SIGABRT
@@ -1985,6 +1985,7 @@ osascript -e 'set volume output volume 50'
 		trap "" SIGKILL
 while [ "$code" != "2147" ]
 do
+	osascript -e 'set volume output volume 70'
 	clear
 	echo ""
 	echo "Options :"
