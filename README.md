@@ -6,6 +6,5 @@ Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/init.en
 Grade 100/100
 
 #### Skills :
-• Skills  
 • Network & system administration  
 • Unix 
