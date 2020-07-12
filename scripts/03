@@ -206,47 +206,31 @@ echo '|                                                  |'
 echo '----------------------------------------------------'
 sleep 1
 clear
-echo -en "\e[1;32mN\e[0m"
-sleep 0.07
-echo -en "\e[1;32me\e[0m"
-sleep 0.07
-echo -en "\e[1;32mo\e[0m"
+echo -en "\e[1;32mI\e[0m"
 sleep 0.07
 echo -en "\e[1;32m \e[0m"
+sleep 0.07
+echo -en "\e[1;32mW\e[0m"
 sleep 0.07
 echo -en "\e[1;32ma\e[0m"
 sleep 0.07
 echo -en "\e[1;32ms\e[0m"
 sleep 0.07
-echo -en "\e[1;32mk\e[0m"
-sleep 0.07
-echo -en "\e[1;32me\e[0m"
-sleep 0.07
-echo -en "\e[1;32md\e[0m"
-sleep 0.07
-echo -en "\e[1;32m \e[0m"
-sleep 0.07
-echo -en "\e[1;32mm\e[0m"
-sleep 0.07
-echo -en "\e[1;32me\e[0m"
-sleep 0.07
 echo -en "\e[1;32m \e[0m"
 sleep 0.07
 echo -en "\e[1;32mt\e[0m"
 sleep 0.07
-echo -en "\e[1;32mo\e[0m"
+echo -en "\e[1;32me\e[0m"
 sleep 0.07
-echo -en "\e[1;32m \e[0m"
+echo -en "\e[1;32ms\e[0m"
 sleep 0.07
 echo -en "\e[1;32mt\e[0m"
-sleep 0.07
-echo -en "\e[1;32mr\e[0m"
-sleep 0.07
-echo -en "\e[1;32ma\e[0m"
 sleep 0.07
 echo -en "\e[1;32mi\e[0m"
 sleep 0.07
 echo -en "\e[1;32mn\e[0m"
+sleep 0.07
+echo -en "\e[1;32mg\e[0m"
 sleep 0.07
 echo -en "\e[1;32m \e[0m"
 sleep 0.07
@@ -255,28 +239,6 @@ sleep 0.07
 echo -en "\e[1;32mo\e[0m"
 sleep 0.07
 echo -en "\e[1;32mu\e[0m"
-sleep 0.07
-echo -en "\e[1;32m \e[0m"
-sleep 0.07
-echo -en "\e[1;32mp\e[0m"
-sleep 0.07
-echo -en "\e[1;32me\e[0m"
-sleep 0.07
-echo -en "\e[1;32mr\e[0m"
-sleep 0.07
-echo -en "\e[1;32ms\e[0m"
-sleep 0.07
-echo -en "\e[1;32mo\e[0m"
-sleep 0.07
-echo -en "\e[1;32mn\e[0m"
-sleep 0.07
-echo -en "\e[1;32ma\e[0m"
-sleep 0.07
-echo -en "\e[1;32ml\e[0m"
-sleep 0.07
-echo -en "\e[1;32my\e[0m"
-sleep 0.07
-echo -en "\e[1;32m.\e[0m"
 sleep 2
 clear
 echo -en "\e[1;32mI\e[0m"
