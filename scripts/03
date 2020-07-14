@@ -321,18 +321,18 @@ echo -e -n "\a"
 sleep 0.2
 echo -e -n "\a"
 sleep 0.2
-open -a "iTerm" 01
-open -a "iTerm" 01
-open -a "iTerm" 01
+open -a "Terminal" 01
+open -a "Terminal" 01
+open -a "Terminal" 01
 echo -e -n "\a"
 sleep 0.2
 echo -e -n "\a"
 sleep 0.2
 echo -e -n "\a"
-open -a "iTerm" 01
-open -a "iTerm" 01
+open -a "Terminal" 01
+open -a "Terminal" 01
 osascript -e 'set volume output volume 70'
-open -a "Google Chrome" https://youtu.be/9ZMLvvXRHY4
+open -a "Safari" https://youtu.be/9ZMLvvXRHY4
 echo "Loading ..."
 sleep 10
 clear
@@ -382,16 +382,16 @@ do
 		then
 			echo -e "\e[0;31mCode unknown\e[0"
 			sleep 1
-			open -a "Google Chrome" https://youtu.be/pwSsT8IU0WE
+			open -a "Safari" https://youtu.be/pwSsT8IU0WE
 		fi
 	fi
 	if [ "$mdp" = "3" ]
 	then
-		open -a "Google Chrome" https://i.redd.it/eqntkqfehnj01.jpg
+		open -a "Safari" https://i.redd.it/eqntkqfehnj01.jpg
 	fi
 	if [ "$mdp" = "4" ]
 	then
-		open -a "Google Chrome" http://www.unit-conversion.info/texttools/convert-text-to-binary/
+		open -a "Safari" http://www.unit-conversion.info/texttools/convert-text-to-binary/
 	fi
 	if [ "$mdp" = "5" ]
 	then 
